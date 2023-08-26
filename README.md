@@ -1,15 +1,24 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9932CCheight=120section=header"/>
 
-### Bem-vindo ao meu repositório no GitHub! Eu sou Matheus e este é o meu espaço para compartilhar projetos e explorar o desenvolvimento. Fique à vontade para explorar os diretórios e contribuir com sugestões.💻
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sousa-521aa5231/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Sousa;I'm+23+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=PrometheusDeveloper&show_icons=true&theme=tokyonight)
 
-### Tecnologias que uso no meu dia
-
-<div style='display: inline_block'><br/>
-<img alling = 'center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-<img alling = 'center' alt='Css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-<img alling = 'center' alt='JavaScript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PrometheusDeveloper&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Sousa github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrometheusDeveloper&layout=compact&hide_border=true&title_color=9400D3&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrometheusDeveloper&bg_color=1a1721&color=f3ecf3&line=b677b2&point=4c3856&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrometheusDeveloper&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+
