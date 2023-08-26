@@ -32,6 +32,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9932CC&height=120&section=footer"/>
 
 
